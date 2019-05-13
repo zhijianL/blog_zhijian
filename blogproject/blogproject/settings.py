@@ -25,7 +25,7 @@ SECRET_KEY = ')&@gz4^15h$800oel=s@2s)w1j1_!)ji_=xb=iz9alr8^-1#1n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False      # 生产环境下配置为False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.feetflowers.cn']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.feetflowers.cn','0.0.0.0']
 
 
 # Application definition
